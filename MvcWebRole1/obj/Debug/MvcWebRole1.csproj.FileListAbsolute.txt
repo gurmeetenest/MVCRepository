@@ -1,0 +1,11 @@
+D:\MVCProject\MvcWebRole1\bin\MvcWebRole1.dll
+D:\MVCProject\MvcWebRole1\bin\MvcWebRole1.pdb
+D:\MVCProject\MvcWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MVCProject\MvcWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\MVCProject\MvcWebRole1\bin\System.Web.Mvc.dll
+D:\MVCProject\MvcWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MVCProject\MvcWebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\MVCProject\MvcWebRole1\bin\System.Web.Mvc.xml
+D:\MVCProject\MvcWebRole1\obj\Debug\ResolveAssemblyReference.cache
+D:\MVCProject\MvcWebRole1\obj\Debug\MvcWebRole1.dll
+D:\MVCProject\MvcWebRole1\obj\Debug\MvcWebRole1.pdb
